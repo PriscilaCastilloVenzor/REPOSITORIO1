@@ -1,4 +1,4 @@
 import streamlit as st
 st.title("Mi primer app :)")
-st.sidebarbutton("Click aqui")
+st.sidebar.button("Click aqui")
 st.balloons()
